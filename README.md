@@ -18,7 +18,7 @@ To cite package ‘plsExtpm’ in any publication, use:
 
 A BibTeX entry for LaTeX users is
 
-  @article{,
+  @article{KEY,
     title = {plspm: Partial Least Squares Path Modeling (PLS-PM)},
     author = {Jorge M. Mendes and Pedro S. Coelho},
     year = {2024},
