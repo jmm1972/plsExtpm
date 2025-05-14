@@ -1,0 +1,5 @@
+"source","target","type","K"
+"Quality","Value","nln",10
+"Quality","Satisfaction","nln",10
+"Value","Satisfaction","nln",10
+"Satisfaction","Loyalty","nln",10

@@ -1,0 +1,11 @@
+source	target
+'Image'	'Expectation'
+'Expectation'	'Quality'
+'Expectation'	'Value'
+'Quality'	'Value'
+'Image'	'Satisfaction'
+'Expectation'	'Satisfaction'
+'Quality'	'Satisfaction'
+'Value'	'Satisfaction'
+'Image'	'Loyalty'
+'Satisfaction'	'Loyalty'
