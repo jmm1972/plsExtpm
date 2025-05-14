@@ -14,7 +14,7 @@ If you want to use it, feel free! But don't forget to cite the work:
 
 To cite package ‘plsExtpm’ in any publication, use:
 
-Mendes, J. M. and Coelho, P. S. (2024). Beyond linearity - a new Partial Least Squares - Path Modelling (PLS-PM) inner weighting scheme for detecting and approximating nonlinear structural relationships in Structural Equation Models, https://github.com/jmm1972/plsExtpm.
+Mendes, J. M. and Coelho, P. S. (2024). Beyond linearity - a new Partial Least Squares - Path Modelling (PLS-PM) inner weighting scheme for detecting and approximating nonlinear structural relationships in Structural Equation Models, doi: 10.5281/zenodo.15412006.
 
 A BibTeX entry for LaTeX users is
 
@@ -23,7 +23,7 @@ A BibTeX entry for LaTeX users is
     author = {Jorge M. Mendes and Pedro S. Coelho},
     year = {2025},
     journal = {submitted to PLOS ONE},
-    url = {https://github.com/jmm1972/plsExtpm},
+    doi = {10.5281/zenodo.15412006}
   }
 
 The official introduction of the package will be done through a scientific article that will be submitted soon.
